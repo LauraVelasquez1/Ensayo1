@@ -8,3 +8,6 @@
 titulocon'#' y seccionesconvarios "##"
 acepta formulas de latex $ (escribir cosas entre $)
 ej $\sum_i N_\$
+
+
+*inserta imagen ![imagen2](./flores-decorativas-y-vistosas.jpg.webp)
